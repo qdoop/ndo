@@ -1,0 +1,36 @@
+{
+  "name": "ndo",
+  "version": "0.0.14111055",
+  "description": "A Forth/PostScript inspired build tool.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "~1.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qdoop/ndo.git"
+  },
+  "keywords": [
+    "Build",
+    "Tool",
+    "Static",
+    "File",
+    "Generator",
+    "Plugin",
+    "Forth",
+    "PostScript",
+    "Paradigm",
+    "Concatenative",
+    "Language"
+  ],
+  "author": "qdoop <qdoop@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qdoop/ndo/issues"
+  },
+  "homepage": "https://github.com/qdoop/ndo"
+}
